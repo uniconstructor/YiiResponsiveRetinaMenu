@@ -9,4 +9,4 @@ Original extension created by Codrops
 
 http://www.codrops.com
 
-Please read about our license: http://tympanus.net/codrops/licensing/
+Please read about original plugin license: http://tympanus.net/codrops/licensing/
