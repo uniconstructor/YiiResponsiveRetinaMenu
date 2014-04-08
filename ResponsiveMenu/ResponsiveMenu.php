@@ -14,7 +14,6 @@ class ResponsiveMenu extends CWidget
      * @var array - wrapper nav tag options
      */
     public $navOptions = array(
-        //'id'    => 'menu',
         'class' => 'nav',
     );
     public $wrapperOptions = array(
